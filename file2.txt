@@ -2,4 +2,5 @@ This is file2
 <<<<<<< HEAD
 And i m here
 =======
+Hello I am Ravi in file 2
 
